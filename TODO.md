@@ -1,4 +1,3 @@
-= TODO
-:icons: font
+# TODO
 
 - [ ] Adapt pipeline for MACS3
